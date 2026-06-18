@@ -61,12 +61,12 @@ Computer Science student (AI Major) at **The British University in Egypt (BUE)**
 
 <div align="center">
 
-### 🏛️ The British University in Egypt
+### 🏛️ Badya University
 
 **Bachelor of Computer Science** | **Artificial Intelligence Major**
 
-<img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Rank-2nd%20in%20Class-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GPA-3.66.0%20%2F%204.0-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rank-1st%20in%20Class-gold?style=for-the-badge" />
 
 </div>
 
