@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledElhosinyaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledelhosiny2006113@gmail.com)
 
-# 👋 Hey there, I'm Omar Mashal
+# 👋 Hey there, I'm Khaled Elhosiny
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Science+Student+%7C+AI+Major;Backend+Engineer+%7C+Competitive+Programmer;Ranked+2nd+in+Class+at+BUE" />
 
