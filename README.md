@@ -6,7 +6,7 @@
 
 # 👋 Hey there, I'm Khaled Elhosiny
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Science+Student+%7C+AI+Major;Backend+Engineer+%7C+Competitive+Programmer;Ranked+2nd+in+Class+at+BUE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Science+Student+%7C+AI+Major;Backend+Engineer+%7C+Competitive+Programmer;Ranked+1st+in+Class+at+Badya" />
 
 </div>
 
