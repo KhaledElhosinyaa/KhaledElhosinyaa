@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student (AI Major) at **The British University in Egypt (BUE)** with a strong interest in **backend development, distributed systems, and competitive programming**.
+Computer Science student (AI Major) at **Badya University** with a strong interest in **backend development, distributed systems, and competitive programming**.
 
 🥈 Ranked *1st in class — GPA 3.66 / 4.0**   
 🧠 **Codeforces Specialist**  
