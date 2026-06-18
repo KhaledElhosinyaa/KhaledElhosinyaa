@@ -78,6 +78,6 @@ Computer Science student (AI Major) at **Badya University** with a strong intere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/omarmashal/](https://www.linkedin.com/in/khaled-elhosiny-207160245/))
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledelhosiny2006113@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarMashal0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledElhosinyaa)
 
 </div>
