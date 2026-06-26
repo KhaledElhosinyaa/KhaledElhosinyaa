@@ -16,7 +16,7 @@
 
 Computer Science student (AI Major) at **Badya University** with a strong interest in **backend development, distributed systems, and competitive programming**.
 
-🥈 Ranked *1st in class — GPA 3.66 / 4.0**   
+🥈 Ranked *1st in class — GPA 3.73 / 4.0**   
 🧠 **Codeforces Specialist**  
 🔢 **500+ problems solved** on online judges  
 
